@@ -1,0 +1,2 @@
+# This is third lab of Software Construction & Development.
+This lab is about concurrency or multithreading. It gives the basic concept of threading i.e difference between single thread or multiple thread. And how we do our tasks simultaneously. Also learn about naming of threads and thread priority. 
